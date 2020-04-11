@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TestThemeSprites
+  m_EditorClassIdentifier: 
+  m_GroupName: TestThemeSprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3e43fa8fad7fb9e408966839fae683df
+  m_SerializeEntries:
+  - m_GUID: 018721a597235cb4c9facc5f558307b6
+    m_Address: standardButton.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0d99f41b136cda740b437879ed75be3a
+    m_Address: arrowButtonRight.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 89289b77f857b694eaf6c9a9ae3b81ab
+    m_Address: toggleCheckmark.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a933953029728634fbfb6d3d6444b0d5
+    m_Address: displayTextHeaderBackground.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c5092aaca1bb58e4dbf30e895fa58538
+    m_Address: displayTextBackground.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c7e6d6ab7a505fd4e8ff3247a3b78d25
+    m_Address: dropdownArrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d212fd843753ce14497b2e5d5bc06801
+    m_Address: inputFieldBackground.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d507dfd6fd2916149ab9827f2fe73468
+    m_Address: panelFrame.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f90cc9f84fbf5fa429aef403028510dc
+    m_Address: arrowButtonLeft.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 648d26615cc24b74a959c084e9a15d63, type: 2}
+    - {fileID: 11400000, guid: 6bb33d3f3c081224eb3e67abf8d2b1f0, type: 2}

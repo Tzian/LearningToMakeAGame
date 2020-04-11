@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TestThemeFonts
+  m_EditorClassIdentifier: 
+  m_GroupName: TestThemeFonts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2dcf365caad6d894bb291a8c9f8389e9
+  m_SerializeEntries:
+  - m_GUID: 6617cc34b059b19438cba8d87acc7d77
+    m_Address: primaryThemeFont.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - TestThemeFonts
+    m_mainAssetType: UnityEngine.Font, UnityEngine.TextRenderingModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 20f894c9b3ca1d1428efda7182ce9b01, type: 2}
+    - {fileID: 11400000, guid: 92de9039929d48c49a90b05d40d1a48d, type: 2}

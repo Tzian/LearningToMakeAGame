@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoadingScreenSprites
+  m_EditorClassIdentifier: 
+  m_GroupName: LoadingScreenSprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8d4b125895ed72945b67c41f8f7b7a07
+  m_SerializeEntries:
+  - m_GUID: cd158fa29bcccc14c84dbdd51d42904e
+    m_Address: loadicon.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote
+    - LoadingScreenSprites
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0544823e80d95494c92438a3717390f3, type: 2}
+    - {fileID: 11400000, guid: 1aec2e39fe102a6468ab8f1585ce1cd3, type: 2}
