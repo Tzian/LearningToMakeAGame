@@ -10,40 +10,34 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: PlayerCharacter
+  m_Name: PlayerAvatars
   m_EditorClassIdentifier: 
-  m_GroupName: PlayerCharacter
+  m_GroupName: PlayerAvatars
   m_Data:
     m_SerializedData: []
-  m_GUID: 60501b416ba156e449c867674206439b
+  m_GUID: 0cd9dd91469abb844a09e05e88a27ef5
   m_SerializeEntries:
   - m_GUID: 0a33e07bf0c35a24f84980ab38d4908b
     m_Address: ManequinM.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
-    - PlayerCharacter
+    - PlayerAvatars
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 722194743561148499, guid: 0a33e07bf0c35a24f84980ab38d4908b,
-      type: 3}
-    m_TargetAsset: {fileID: 722194743561148499, guid: 0a33e07bf0c35a24f84980ab38d4908b,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 80fc3216fea415c4b9f496b78c0e5f62
     m_Address: ManequinF.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
-    - PlayerCharacter
+    - PlayerAvatars
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 1984899791804808273, guid: 80fc3216fea415c4b9f496b78c0e5f62,
-      type: 3}
-    m_TargetAsset: {fileID: 1984899791804808273, guid: 80fc3216fea415c4b9f496b78c0e5f62,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 19bae0a51bbd00d4894a6aaf293dd3f4, type: 2}
-    - {fileID: 11400000, guid: 8ea01f3a95bd62b44a80434f97913093, type: 2}
+    - {fileID: 11400000, guid: 011591498a6c4f240bc8427dd5af5568, type: 2}
+    - {fileID: 11400000, guid: 495fa7ba6c723ab4f807bd8e7cb4034e, type: 2}
