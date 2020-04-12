@@ -35,8 +35,10 @@ MonoBehaviour:
     - PlayerCharacter
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 1984899791804808273, guid: 80fc3216fea415c4b9f496b78c0e5f62,
+      type: 3}
+    m_TargetAsset: {fileID: 1984899791804808273, guid: 80fc3216fea415c4b9f496b78c0e5f62,
+      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
