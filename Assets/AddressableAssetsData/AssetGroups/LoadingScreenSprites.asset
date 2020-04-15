@@ -21,7 +21,6 @@ MonoBehaviour:
     m_Address: loadicon.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - LoadingScreenSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null

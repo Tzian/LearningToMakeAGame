@@ -21,7 +21,6 @@ MonoBehaviour:
     m_Address: NetworkPlayerGhostCollection.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - NetworkGhostCollections
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -31,7 +30,6 @@ MonoBehaviour:
     m_Address: NetworkStartData.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - NetworkGhostCollections
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null

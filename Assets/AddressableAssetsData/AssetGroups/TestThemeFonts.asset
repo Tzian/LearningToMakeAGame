@@ -21,7 +21,6 @@ MonoBehaviour:
     m_Address: primaryThemeFont.ttf
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeFonts
     m_mainAssetType: UnityEngine.Font, UnityEngine.TextRenderingModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null

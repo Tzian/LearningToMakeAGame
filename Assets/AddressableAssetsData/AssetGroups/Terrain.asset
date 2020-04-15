@@ -21,7 +21,6 @@ MonoBehaviour:
     m_Address: GroundBrown.mat
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - Terrain
     m_mainAssetType: UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null

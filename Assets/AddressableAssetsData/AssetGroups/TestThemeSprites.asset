@@ -21,7 +21,6 @@ MonoBehaviour:
     m_Address: standardButton.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -31,7 +30,6 @@ MonoBehaviour:
     m_Address: arrowButtonRight.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -41,7 +39,6 @@ MonoBehaviour:
     m_Address: toggleCheckmark.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -51,7 +48,6 @@ MonoBehaviour:
     m_Address: displayTextHeaderBackground.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -61,7 +57,6 @@ MonoBehaviour:
     m_Address: displayTextBackground.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -71,7 +66,6 @@ MonoBehaviour:
     m_Address: dropdownArrow.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -81,7 +75,6 @@ MonoBehaviour:
     m_Address: inputFieldBackground.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -91,7 +84,6 @@ MonoBehaviour:
     m_Address: panelFrame.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -101,7 +93,6 @@ MonoBehaviour:
     m_Address: arrowButtonLeft.png
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Remote
     - TestThemeSprites
     m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
