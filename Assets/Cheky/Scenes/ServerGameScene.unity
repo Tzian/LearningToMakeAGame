@@ -123,7 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &2099978091
+--- !u!1001 &1564640909
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -188,18 +188,12 @@ PrefabInstance:
     - target: {fileID: 5651757468255125622, guid: 959261861f1c1b040b558d909d5a8ee7,
         type: 3}
       propertyPath: m_Name
-      value: SharedData
+      value: NetworkStartData
       objectReference: {fileID: 0}
     - target: {fileID: 5651757468255125623, guid: 959261861f1c1b040b558d909d5a8ee7,
         type: 3}
       propertyPath: ConversionTarget
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 7105868813257931150, guid: 959261861f1c1b040b558d909d5a8ee7,
-        type: 3}
-      propertyPath: Ghosts.Array.data[0].prefab
-      value: 
-      objectReference: {fileID: 1803146452413492187, guid: 062465fcb234b71418ef7b72cb8b1024,
-        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 959261861f1c1b040b558d909d5a8ee7, type: 3}
