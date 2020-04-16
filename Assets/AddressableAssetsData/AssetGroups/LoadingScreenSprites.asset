@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: LoadingScreenSprites
   m_Data:
     m_SerializedData: []
-  m_GUID: 8d4b125895ed72945b67c41f8f7b7a07
+  m_GUID: acf14ed6d0bfb1b439a11dd76d95a04c
   m_SerializeEntries:
   - m_GUID: cd158fa29bcccc14c84dbdd51d42904e
     m_Address: loadicon.png
@@ -30,5 +30,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0544823e80d95494c92438a3717390f3, type: 2}
-    - {fileID: 11400000, guid: 1aec2e39fe102a6468ab8f1585ce1cd3, type: 2}
+    - {fileID: 11400000, guid: 0aebfa1d165b1d842b71b22398c3c9a9, type: 2}
+    - {fileID: 11400000, guid: eca36d59ac752a549baf422f397bde93, type: 2}

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: TestThemeFonts
   m_Data:
     m_SerializedData: []
-  m_GUID: 2dcf365caad6d894bb291a8c9f8389e9
+  m_GUID: ac3ec6d8249111a40a87f98da91c680f
   m_SerializeEntries:
   - m_GUID: 6617cc34b059b19438cba8d87acc7d77
     m_Address: primaryThemeFont.ttf
@@ -30,5 +30,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 20f894c9b3ca1d1428efda7182ce9b01, type: 2}
-    - {fileID: 11400000, guid: 92de9039929d48c49a90b05d40d1a48d, type: 2}
+    - {fileID: 11400000, guid: 4ecad6003aba75048a1afbf02fb1a797, type: 2}
+    - {fileID: 11400000, guid: b3a20e5d5adfffa4a87838c075733af2, type: 2}

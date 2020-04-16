@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Terrain
   m_Data:
     m_SerializedData: []
-  m_GUID: 93bdc123ff1d68545a80d010cc12b5e7
+  m_GUID: db622fbbe7b91874782d41df70a473d8
   m_SerializeEntries:
   - m_GUID: 9122b109730b7f842bb15b3ad064d118
     m_Address: GroundBrown.mat
@@ -30,5 +30,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: f2111eeb78e506345a925a5ab0725a35, type: 2}
-    - {fileID: 11400000, guid: c07aef04856b712459701fce44694d52, type: 2}
+    - {fileID: 11400000, guid: afe81cad86bd096428c4d5bfe73101b7, type: 2}
+    - {fileID: 11400000, guid: 4faa9a847d20bbe409a16e216e80660b, type: 2}

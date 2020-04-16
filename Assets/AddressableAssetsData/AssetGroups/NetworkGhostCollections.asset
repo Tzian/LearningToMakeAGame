@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: NetworkGhostCollections
   m_Data:
     m_SerializedData: []
-  m_GUID: 601a8a58a9a6bd040b96d85b1a98f8ed
+  m_GUID: 8bbb2bb0ee57c404cb339a40e9ba2685
   m_SerializeEntries:
   - m_GUID: 71274fb593b304d48a38273bbde62e61
     m_Address: NetworkPlayerGhostCollection.prefab
@@ -39,5 +39,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: ad0f3443383fa43439157a9a5b648f2e, type: 2}
-    - {fileID: 11400000, guid: 41a2df56ec8397840a4b1de0d692f234, type: 2}
+    - {fileID: 11400000, guid: ce71b69cb061d704d83b31a5b99ad965, type: 2}
+    - {fileID: 11400000, guid: 5ac1a2b33f51fcc4c992c4bf14b038ff, type: 2}

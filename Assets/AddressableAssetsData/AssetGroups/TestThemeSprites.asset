@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: TestThemeSprites
   m_Data:
     m_SerializedData: []
-  m_GUID: 3e43fa8fad7fb9e408966839fae683df
+  m_GUID: 301c07a04b7cb744786d783b09b603b2
   m_SerializeEntries:
   - m_GUID: 018721a597235cb4c9facc5f558307b6
     m_Address: standardButton.png
@@ -102,5 +102,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 648d26615cc24b74a959c084e9a15d63, type: 2}
-    - {fileID: 11400000, guid: 6bb33d3f3c081224eb3e67abf8d2b1f0, type: 2}
+    - {fileID: 11400000, guid: a03e1c2266c3c794595981315ca691b0, type: 2}
+    - {fileID: 11400000, guid: 7933584554e03534cb3a40e45543bb96, type: 2}

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: PlayerAvatars
   m_Data:
     m_SerializedData: []
-  m_GUID: 0cd9dd91469abb844a09e05e88a27ef5
+  m_GUID: 184a71a25f4038941ad708d79672d15f
   m_SerializeEntries:
   - m_GUID: 0a33e07bf0c35a24f84980ab38d4908b
     m_Address: ManequinM.prefab
@@ -39,5 +39,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 011591498a6c4f240bc8427dd5af5568, type: 2}
-    - {fileID: 11400000, guid: 495fa7ba6c723ab4f807bd8e7cb4034e, type: 2}
+    - {fileID: 11400000, guid: edc2acbc06ed5cf4aa009878838c3752, type: 2}
+    - {fileID: 11400000, guid: fb9675f6c4dd9ce46ba9e3648adb4bb4, type: 2}
