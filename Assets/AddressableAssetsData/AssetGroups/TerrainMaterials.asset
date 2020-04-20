@@ -24,8 +24,8 @@ MonoBehaviour:
     - TerrainMaterials
     m_mainAssetType: UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 2100000, guid: 890c0ffee7a29c548bb9100fcb99b49a, type: 2}
-    m_TargetAsset: {fileID: 2100000, guid: 890c0ffee7a29c548bb9100fcb99b49a, type: 2}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
