@@ -31,6 +31,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7d2ff0f944cf7774281022e29d279460, type: 2}
   - {fileID: 11400000, guid: 0df804ae849c2644992f4a1bbc6dfdad, type: 2}
   - {fileID: 11400000, guid: 48e69939c8ca1284cafae82b14ddf854, type: 2}
+  - {fileID: 11400000, guid: 4c9ce05ce81ec334186ffa3758c02b33, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -98,6 +99,7 @@ MonoBehaviour:
     - ClientUiModels
     - PlayerAvatars
     - TerrainMaterials
+    - TextureAtlases
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 4adfeafccdcd5b94b8a38f2a6f12b16c, type: 2}
