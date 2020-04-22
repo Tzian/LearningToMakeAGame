@@ -69,8 +69,6 @@ namespace Cheky.Editor
 
             foreach (DirectoryInfo directory in directories)
             {
-                string directoryName = directory.Name;
-
                 DirectoryInfo[] subDirectories = directory.GetDirectories();
 
                 string path = visualsPath[0] + "/" + directory.Name;
@@ -97,7 +95,7 @@ namespace Cheky.Editor
                             continue;
                         }
 
-                        AddressableAssetEntry entry = CreateOrUpdateAddressableAssetEntry(group, subPath, fileInfo.Name);
+                        CreateOrUpdateAddressableAssetEntry(group, subPath, fileInfo.Name);
                     }
                 }
             }
@@ -106,7 +104,7 @@ namespace Cheky.Editor
             settings.ActivePlayerDataBuilder.BuildData<AddressablesPlayerBuildResult>(buildContext);
         }
 
-        static AddressableAssetEntry CreateOrUpdateAddressableAssetEntry(AddressableAssetGroup group, string subPath, string fileName)
+        static void CreateOrUpdateAddressableAssetEntry(AddressableAssetGroup group, string subPath, string fileName)
         {
             string filePath = subPath + "/" + fileName;
 
@@ -118,8 +116,6 @@ namespace Cheky.Editor
                 entry.address = fileName;
                 entry.SetLabel(group.Name, true, true);
             }
-
-            return entry;
         }
 
         static AddressableAssetGroup FindOrCreateAddressableGroup(string addressableGroupName)
