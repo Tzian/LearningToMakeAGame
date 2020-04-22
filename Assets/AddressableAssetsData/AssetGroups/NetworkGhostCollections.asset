@@ -24,10 +24,8 @@ MonoBehaviour:
     - NetworkGhostCollections
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 3817477217727659897, guid: 71274fb593b304d48a38273bbde62e61,
-      type: 3}
-    m_TargetAsset: {fileID: 3817477217727659897, guid: 71274fb593b304d48a38273bbde62e61,
-      type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 959261861f1c1b040b558d909d5a8ee7
     m_Address: NetworkStartData.prefab
     m_ReadOnly: 0
