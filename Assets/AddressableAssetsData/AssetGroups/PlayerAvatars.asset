@@ -24,8 +24,10 @@ MonoBehaviour:
     - PlayerAvatars
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 722194743561148499, guid: 0a33e07bf0c35a24f84980ab38d4908b,
+      type: 3}
+    m_TargetAsset: {fileID: 722194743561148499, guid: 0a33e07bf0c35a24f84980ab38d4908b,
+      type: 3}
   - m_GUID: 80fc3216fea415c4b9f496b78c0e5f62
     m_Address: ManequinF.prefab
     m_ReadOnly: 0
