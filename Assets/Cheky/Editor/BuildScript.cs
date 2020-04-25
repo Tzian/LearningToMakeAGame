@@ -9,7 +9,11 @@ namespace Cheky.Editor
 		[MenuItem("Cheky Tools/Build/Win64 GameClient")]
 		static void BuildWin64Client()
 		{
-			string[] clientScenes = {"Assets/Cheky/Scenes/ClientStartScene.unity", "Assets/Cheky/Scenes/ClientGameScene.unity"};
+			string[] clientScenes = 
+			{
+				"Assets/Cheky/Scenes/ClientStartScene.unity",
+				"Assets/Cheky/Scenes/ClientGameScene.unity"
+			};
 
 			BuildPlayerOptions buildOptions = new BuildPlayerOptions
 			{
