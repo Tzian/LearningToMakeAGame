@@ -40,7 +40,8 @@ namespace Cheky.Editor
 			{
 				locationPathName = "E:/_GameDev_LearningToMakeAGame/Cheky/OurGameName/Server/ChekyServer.exe",
 				scenes = serverScenes,
-				target = BuildTarget.StandaloneWindows64
+				target = BuildTarget.StandaloneWindows64,
+				options = BuildOptions.EnableHeadlessMode
 			};
 			BuildPipeline.BuildPlayer (buildOptions);
 		}
