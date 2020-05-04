@@ -16,25 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fab5f10b8b57fd342a50653e138e33f3
-  m_SerializeEntries:
-  - m_GUID: 065f11cad0a29b0488c3a08236d7b0bd
-    m_Address: TextureAtlas_Main.png
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - TextureAtlases
-    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: b9d6e5fabe5c06944bd5c94500e2c7d7
-    m_Address: TextureAtlas_Main.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - TextureAtlases
-    m_mainAssetType: UnityEngine.TextAsset, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:

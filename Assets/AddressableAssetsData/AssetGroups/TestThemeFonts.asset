@@ -16,16 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: ac3ec6d8249111a40a87f98da91c680f
-  m_SerializeEntries:
-  - m_GUID: 6617cc34b059b19438cba8d87acc7d77
-    m_Address: primaryThemeFont.ttf
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - TestThemeFonts
-    m_mainAssetType: UnityEngine.Font, UnityEngine.TextRenderingModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:

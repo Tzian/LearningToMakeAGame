@@ -16,16 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: acf14ed6d0bfb1b439a11dd76d95a04c
-  m_SerializeEntries:
-  - m_GUID: cd158fa29bcccc14c84dbdd51d42904e
-    m_Address: loadicon.png
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - LoadingScreenSprites
-    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:

@@ -16,16 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: ab6527cb94bcdc94fbd1e3108044e1a5
-  m_SerializeEntries:
-  - m_GUID: 94b10aadcb3521c44913347a4de182fc
-    m_Address: Persistent.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ClientUi
-    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
