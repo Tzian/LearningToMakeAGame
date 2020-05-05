@@ -16,7 +16,21 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 184a71a25f4038941ad708d79672d15f
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 0a33e07bf0c35a24f84980ab38d4908b
+    m_Address: ManequinM.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerAvatars
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 80fc3216fea415c4b9f496b78c0e5f62
+    m_Address: ManequinF.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerAvatars
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
   m_SchemaSet:
