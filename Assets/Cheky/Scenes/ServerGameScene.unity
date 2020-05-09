@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3146721580534689975, guid: 959261861f1c1b040b558d909d5a8ee7, type: 3}
+      propertyPath: VisualDebugger.EnableVisualDebugger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5651757468255125620, guid: 959261861f1c1b040b558d909d5a8ee7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
