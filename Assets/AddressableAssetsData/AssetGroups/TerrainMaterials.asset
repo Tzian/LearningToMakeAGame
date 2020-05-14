@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TerrainMaterials
+  m_EditorClassIdentifier: 
+  m_GroupName: TerrainMaterials
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 782ad17fd17b6bb41b40a4500b3d6610
+  m_SerializeEntries:
+  - m_GUID: 0e3acf87361bb8842a0e52356d8627a0
+    m_Address: TextureAtlasMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TerrainMaterials
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce4c1c1d1a57fe64dbd9035d74f93d9c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8a7fefbd2b2fe8542a91a9f2c50b20a2, type: 2}
+    - {fileID: 11400000, guid: 76f82613cd8afcf49af713f30d481dc0, type: 2}
